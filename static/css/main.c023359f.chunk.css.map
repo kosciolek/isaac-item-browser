@@ -1,0 +1,1 @@
+{"version":3,"sources":["fonts.css"],"names":[],"mappings":"AAAA,WACI,oBAAuB,CACvB,iDACJ,CACA,WACI,iBAAoB,CACpB,8CACJ","file":"main.c023359f.chunk.css","sourcesContent":["@font-face {\n    font-family: 'Upheaval';\n    src: url(upheavtt.ttf);\n}\n@font-face {\n    font-family: 'Silom';\n    src: url(Silom.ttf);\n}"]}
